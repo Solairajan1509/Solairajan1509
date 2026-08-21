@@ -95,74 +95,47 @@ I'm **Solairajan S**, a Computer Science and Engineering student graduating in *
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="100%">
-
-## 📋 TaskFlow — Enterprise Project Management System
+### 📋 TaskFlow — Enterprise Project Management System
 
 A full-stack project management platform designed to help teams manage projects, tasks, users, and workflows efficiently.
 
-**Features**
+**Key Features**
+- 🔐 Authentication & Authorization
+- 🔑 JWT Authentication
+- 🌐 REST APIs
+- 📁 File Upload & Management
+- 👥 User & Project Management
+- 🗄️ MongoDB Integration
 
-* 🔐 Authentication & Authorization
-* 🔑 JWT Authentication
-* 🌐 REST APIs
-* 📁 File Upload & Management
-* 👥 User & Project Management
-* 🗄️ MongoDB Integration
+**Tech Stack:** `React` · `Node.js` · `Express.js` · `MongoDB` · `JWT`
 
-**Tech:** `React` · `Node.js` · `Express.js` · `MongoDB` · `JWT`
+🔗 [**View Project →**](https://github.com/Solairajan1509/Taskflow)
 
-🔗 **[View Project →](https://github.com/Solairajan1509/Taskflow)**
+---
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-## ⚖️ Rules of India — Legal Learning Platform
+### ⚖️ Rules of India — Legal Learning Platform
 
 A legal learning platform designed to make Indian legal concepts easier to understand and access.
 
-**Features**
+**Key Features**
+- 📚 Simplified Legal Information
+- 🤖 AI-Assisted Legal Learning
+- 🌐 User-Friendly Interface
+- 📱 Practical Learning Experience
 
-* 📚 Simplified Legal Information
-* 🤖 AI-Assisted Legal Learning
-* 🌐 User-Friendly Interface
-* 📱 Practical Learning Experience
+**Tech Stack:** `MERN Stack` · `MongoDB` · `React` · `Node.js`
 
-**Tech:** `MERN Stack` · `MongoDB` · `React` · `Node.js`
+🔗 [**View Project →**](https://github.com/Solairajan1509/ROI-THE-LEGAL-APP)
 
-🔗 **[View Project →](https://github.com/Solairajan1509/ROI-THE-LEGAL-APP)**
+---
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-## 🧑‍💼 SmartSlate — Smart Attendance Management System
-
-A smart attendance management system designed to simplify student attendance tracking and management.
-
-**Features**
-
-* 👨‍🎓 Student Management
-* 📊 Attendance Tracking
-* 🗄️ Database Integration
-* 📱 User-Friendly Interface
-
-**Tech:** `React` · `Node.js` · `MongoDB` · `JavaScript`
-
-🔗 **[View Project →](https://github.com/Solairajan1509/SmartSlate)**
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Solairajan1509?tab=repositories">
+    <strong>🌐 See All Other Repositories →</strong>
+  </a>
+</p>
 
 ---
 
