@@ -219,7 +219,7 @@ Focused on:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Solairajan1509/Solairajan1509/output/snake.svg" alt="Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/Solairajan1509/Solairajan1509/gh-pages/snake.svg" width="100%" alt="Contribution Snake Animation">
 
 </div>
 
