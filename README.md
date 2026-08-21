@@ -19,15 +19,6 @@
 
 </div>
 
-
-### 💻 CSE Student | Full-Stack Developer | Problem Solver
-
-*Building practical applications, exploring new technologies, and turning ideas into real-world solutions.*
-
-</div>
-
-<br />
-
 ---
 
 ## 🚀 About Me
